@@ -1,1 +1,1 @@
-# EBookSotre
+# EBookStore
